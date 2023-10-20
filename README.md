@@ -1,4 +1,6 @@
 # EV-Optimization
+![image](https://github.com/kartikyagupta/EV_Optimization/assets/120653940/f12813ec-79a6-4b91-9d90-84ef0b40d8ca)
+
 The Chinese Remainder Theorem (CRT) is a mathematical
 theorem used in various fields, including computer
 science, cryptography, engineering, number theory, and physics.
